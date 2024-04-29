@@ -16,7 +16,7 @@
     "David Fant"
   ],
   "devDependencies": {
-    "@rollup/plugin-terser": "0.1.0",
+    "@rollup/plugin-terser": "0.4.4",
     "@rollup/plugin-typescript": "11.1.6",
     "rimraf": "5.0.5",
     "rollup": "2.55.1",
